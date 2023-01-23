@@ -1,0 +1,13 @@
+Sub aceeași stea,John,Green,dragoste,drama,da
+Tuturor băieților pe care i-am iubit,Jenny,Han,dragoste,comedie,da
+Divergent,Veronica,Roth,sf,dragoste,da
+Fata cu vise alb negru,Andreea,Russo,mister,dragoste,nu
+Codul lui Da Vinci,Dan,Brown,mister,thriller,da
+Ocolul Pământului în 80 de zile,Jules,Verne,aventura,sf,da
+Dacă aș rămâne,Gayle,Forman,drama,dragoste,da
+Jocurile foamei,Suzanne,Collins,actiune,sf,da
+Prima iubire,James,Patterson,dragoste,drama,nu
+Silver Bay,Jojo,Moyes,dragoste,drama,nu
+Fata din tren,Paula,Hawkins,mister,psihologic,nu
+Instrumente mortale,Cassandra,Clare,fantezie,thriller,da
+Oamenii fericiți citesc și beau cafea,Agnes,Martin-Lugand,dragoste,drama,nu
